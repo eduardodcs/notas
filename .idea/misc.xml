@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/eddce/OneDrive/PROJETOS/notas/app/src/main/res/drawable/fundo_gradiente_insere_notas.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/notas/app/src/main/res/layout/activity_formulario_nota.xml" value="0.209375" />
         <entry key="..\:/Users/eddce/OneDrive/PROJETOS/notas/app/src/main/res/layout/activity_lista_notas.xml" value="0.25" />
         <entry key="..\:/Users/eddce/OneDrive/PROJETOS/notas/app/src/main/res/layout/item_nota.xml" value="0.209375" />
+        <entry key="..\:/Users/eddce/OneDrive/PROJETOS/notas/app/src/main/res/menu/menu_formulario_nota_salva.xml" value="0.209375" />
       </map>
     </option>
   </component>
